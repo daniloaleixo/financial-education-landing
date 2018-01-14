@@ -425,7 +425,7 @@ p {
 
 .wellcome_area {
     background-image: url(img/bg-img/welcome-bg.png);
-    height: 900px;
+    height: 100vh;
     position: relative;
     z-index: 1;
     background-position: bottom center;
@@ -511,6 +511,9 @@ p {
     text-align: center;
     border-radius: 24px 24px 24px 0px;
     margin-left: 10px;
+    -webkit-transition-duration: 500ms;
+    -o-transition-duration: 500ms;
+    transition-duration: 500ms;
 }
 
 .get-start-area .submit:hover {
