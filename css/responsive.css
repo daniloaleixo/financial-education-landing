@@ -35,6 +35,7 @@
     }
     .menu_area .navbar-brand {
         font-size: 48px;
+        display: none;
     }
     .header_area.sticky {
         height: 50px;
@@ -59,7 +60,7 @@
         right: 0;
     }
     .wellcome-heading {
-        margin-bottom: 70px;
+        /*margin-bottom: 70px;*/
     }
     .single-special {
         padding: 30px 10px;
@@ -219,7 +220,7 @@
         top: -105px;
         left: -1px;
     }
-    .wellcome-heading,
+    /*.wellcome-heading,*/
     .single-cool-fact {
         margin-bottom: 50px;
     }
@@ -240,7 +241,7 @@
         width: 75%;
     }
     .wellcome-heading {
-        margin-bottom: 50px;
+        /*margin-bottom: 50px;*/
     }
     .wellcome-heading > h3 {
         top: -139px;

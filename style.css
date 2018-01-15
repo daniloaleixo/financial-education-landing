@@ -61,6 +61,10 @@ h6 {
     line-height: 1.2;
 }
 
+.flexbox {
+    display: flex;
+}
+
 .section_padding_100 {
     padding-top: 100px;
     padding-bottom: 100px;
@@ -339,6 +343,7 @@ p {
     margin: 0;
     line-height: 1;
     padding: 0;
+    display: none;
 }
 
 
@@ -463,6 +468,7 @@ p {
     font-weight: 700;
     position: relative;
     z-index: 3;
+    margin-top: 25%;
 }
 
 .get-start-area .email {
@@ -542,7 +548,7 @@ p {
 }
 
 .wellcome-heading {
-    margin-bottom: 100px;
+    /*margin-bottom: 100px;*/
 }
 
 /* --------------------------
