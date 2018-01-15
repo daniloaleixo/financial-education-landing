@@ -409,6 +409,7 @@ p {
 
 .header_area.sticky .menu_area .navbar-brand {
     font-size: 50px;
+    display: block;
 }
 
 .header_area.sticky .menu_area #nav .nav-link {
